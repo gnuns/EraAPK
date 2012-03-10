@@ -1,0 +1,10 @@
+C:\Users\Gabriel\C#\eraAPK\eraAPK\bin\Debug\eraAPK.exe
+C:\Users\Gabriel\C#\eraAPK\eraAPK\bin\Debug\eraAPK.pdb
+C:\Users\Gabriel\C#\eraAPK\eraAPK\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Gabriel\C#\eraAPK\eraAPK\obj\x86\Debug\eraAPK.Forms.eraGUI.resources
+C:\Users\Gabriel\C#\eraAPK\eraAPK\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Gabriel\C#\eraAPK\eraAPK\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Gabriel\C#\eraAPK\eraAPK\obj\x86\Debug\eraAPK.exe
+C:\Users\Gabriel\C#\eraAPK\eraAPK\obj\x86\Debug\eraAPK.pdb
+C:\Users\Gabriel\C#\eraAPK\eraAPK\obj\x86\Debug\eraAPK.Properties.Resources.resources
+C:\Users\Gabriel\C#\eraAPK\eraAPK\bin\Debug\ICSharpCode.SharpZipLib.dll
